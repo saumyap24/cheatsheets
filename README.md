@@ -5,4 +5,4 @@
 
 
 ## Table of contents
-- [Python Cheatsheet](./python-cheatsheet.pdf)
+- [Python Keywords Cheatsheet](./python-keywords-cheatsheet.pdf)
